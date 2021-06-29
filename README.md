@@ -14,7 +14,7 @@ The AWS Amplify Console provides hosting for fullstack serverless web apps. [Lea
 
 The Amplify Console will fork this repo in your GitHub account, and then build and deploy your backend and frontend in a single workflow. Your app will be available at `https://master.appid.amplifyapp.com`.
 
-## Run locally with the Amplify CLI
+### Run locally with the Amplify CLI
 
 1. Clone the repo that was just forked in your account
 
